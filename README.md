@@ -13,17 +13,17 @@
 
 地址：https://www.videolan.org/vlc/
 
-3.下载神器 NDM
-
+3.下载神器 ABDM
+  
 目前最强的多线程下载工具，下载速度非常快
 
-地址：https://www.neatdownloadmanager.com/index.php/en/
+地址：https://github.com/amir1376/ab-download-manager/releases/tag/v1.4.4
 
 4.BT种子下载神器
 
 这是海外用户首选的BT种子下载工具，不仅速度快支持自定义反吸血，界面也非常好看；
 
-地址：未知
+地址：www.qbittorrent.org
 
 国内用户使用请用迅雷：https://www.xunlei.com/
 
